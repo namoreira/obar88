@@ -1775,7 +1775,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/o-bar-88-5-2000x1333.png");
+  background-image: url("../../../assets/images/mais-que-um-bar-2000x1325.png");
 }
 .cid-rpydtrQl0z {
   padding-top: 90px;
@@ -1787,15 +1787,16 @@ body {
 }
 .cid-rpydtrQl0z H1 {
   color: #ffffff;
+  text-align: center;
 }
 .cid-rpydtrQl0z .mbr-text,
 .cid-rpydtrQl0z .mbr-section-btn {
   color: #ffffff;
 }
 .cid-rpyzFmx1Fi {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #232323;
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-color: #c7a00d;
 }
 .cid-rpyzFmx1Fi h4 {
   font-weight: 500;
@@ -1819,7 +1820,7 @@ body {
 }
 .cid-rpyzFmx1Fi .card-wrapper {
   height: 100%;
-  background: #232323;
+  background: #4f4943;
 }
 @media (max-width: 767px) {
   .cid-rpyzFmx1Fi .card:not(.last-child) {
@@ -1827,19 +1828,32 @@ body {
   }
 }
 .cid-rpyzFmx1Fi H2 {
-  color: #ffffff;
+  color: #465052;
+  text-align: center;
 }
 .cid-rpyzFmx1Fi .card-title {
   color: #efefef;
+  text-align: center;
 }
 .cid-rpyzFmx1Fi .mbr-text,
 .cid-rpyzFmx1Fi .mbr-section-btn {
+  color: #232323;
+  text-align: center;
+}
+.cid-rpyzFmx1Fi .card-title B {
   color: #efefef;
 }
+.cid-rpyzFmx1Fi .mbr-text,
+.cid-rpyzFmx1Fi .mbr-section-btn I {
+  color: #efefef;
+}
+.cid-rpyzFmx1Fi B {
+  color: #ffffff;
+}
 .cid-rpyxKfGpbT {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #232323;
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-color: #c7a00d;
 }
 .cid-rpyxKfGpbT .content-slider {
   display: -webkit-flex;
@@ -2098,7 +2112,7 @@ body {
   background: transparent !important;
 }
 .cid-rpyxKfGpbT .image_wrapper {
-  height: 400px;
+  height: 580px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -2111,10 +2125,12 @@ body {
   text-align: center;
 }
 .cid-rpyxKfGpbT .content-slider-wrap {
-  width: 60%;
+  width: 80%;
 }
 .cid-rpywm6XaoO {
-  background-image: url("../../../assets/images/2253-2000x1334.jpg");
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/o-bar-88-novo-3-2000x1333.png");
 }
 .cid-rpywm6XaoO .form-control,
 .cid-rpywm6XaoO .form-control:focus {
@@ -2133,21 +2149,25 @@ body {
   justify-content: center;
   -webkit-justify-content: center;
 }
+.cid-rpywm6XaoO .row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 @media (min-width: 768px) {
-  .cid-rpywm6XaoO .content-container {
-    padding-right: 5rem;
+  .cid-rpywm6XaoO .row .content-container {
+    padding-left: 5rem;
   }
 }
 .cid-rpyqjYQJZ9 {
   padding-top: 45px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-color: #767676;
 }
 .cid-rpyqjYQJZ9 div.b {
   padding-top: 2rem;
 }
 .cid-rpyqjYQJZ9 .mbr-text {
-  color: #efefef;
+  color: #767676;
   margin: 0;
   padding-top: 1.5rem;
 }
@@ -2198,14 +2218,17 @@ body {
 .cid-rpyqjYQJZ9 H5 {
   color: #efefef;
 }
+.cid-rpyqjYQJZ9 .mbr-text I {
+  color: #cccccc;
+}
 .cid-rpytyCkc4y {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(0deg, #232323, #232323);
+  background: linear-gradient(0deg, #767676, #767676);
 }
 .cid-rpytyCkc4y .mbr-iconfont-social {
   font-size: 32px;
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-rpytyCkc4y .social-list a:focus {
   text-decoration: none;
